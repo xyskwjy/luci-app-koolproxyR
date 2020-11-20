@@ -1,1 +1,1 @@
-# luci-app-koolproxyR
+自用，更改规则地址，请勿fork。
